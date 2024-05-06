@@ -23,5 +23,5 @@ https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis.
 
 ## Model Performance on test set
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Sob0r2/psi_projekt/blob/main/test_metrics.jpg))
+![alt text](https://github.com/Sob0r2/psi_projekt/blob/main/test_metrics.jpg)
 
